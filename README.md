@@ -20,6 +20,8 @@ The task involves:
 
 ## Future Sales Prediction
 
+![image](https://github.com/user-attachments/assets/d845b39d-6993-4571-af27-83aa53638687)
+
 ### Evaluation Metrics:
 - **Mean Squared Error (MSE)**: `5.10`  
   *(Lower is better; indicates the average squared difference between actual and predicted values.)*
