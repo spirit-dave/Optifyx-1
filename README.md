@@ -62,17 +62,4 @@ Here are some predicted sales figures based on hypothetical advertising budgets:
 2. **Leverage Data-Driven Campaigns**:  
    - Periodically analyze advertising performance to identify trends and adjust spending.
 
-3. **Explore Digital Advertising**:  
-   Since this dataset doesn't include digital ads, consider incorporating online platforms like social media and search engines to diversify and modernize campaigns.
-
-4. **Run A/B Tests**:  
-   - Experiment with different budget allocations to fine-tune the ideal spending ratios.
-
----
-
-## How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/sales-prediction.git
-   cd sales-prediction
+3. **Explore Digital Advertising**
